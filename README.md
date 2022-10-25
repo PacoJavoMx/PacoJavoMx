@@ -2,7 +2,9 @@
 
 Welcome to my Github profile!
 
-Currently I´m finishing my major in Computing degree at The National Autonomous University of Mexico (UNAM)
+Currently I´m finishing my major in Computing degree at The National Autonomous University of Mexico (UNAM)  
+
+![PacoJavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PacoJavoMx&theme=transparent&show_icons=true)
 
 Find me on:earth_americas::  
 -[Twitter](https://twitter.com/pacojavomx)  
