@@ -2,7 +2,7 @@
 
 Welcome to my Github profile!
 
-Currently I´m finishing my Computing degree at The National Autonomous University of Mexico (UNAM)
+Currently I´m finishing my major in Computing degree at The National Autonomous University of Mexico (UNAM)
 
 
 <!--
