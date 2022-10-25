@@ -1,5 +1,10 @@
 ### Hello world, I´m Francisco 👋💻
 
+Welcome to my Github profile!
+
+Currently I´m finishing my Computing degree at The National Autonomous University of Mexico (UNAM)
+
+
 <!--
 **PacoJavoMx/PacoJavoMx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
