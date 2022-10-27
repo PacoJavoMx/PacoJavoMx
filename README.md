@@ -4,7 +4,7 @@ Welcome to my Github profile!
 
 Currently I´m finishing my major in Computing degree at The National Autonomous University of Mexico (UNAM)  
 
-I´m currently learning Web Development: HTML, CSS, JavaScript, React, etc...
+I´m currently learning Web Development, specially focus on Front End: HTML, CSS, JavaScript, React.
 
 
 Find me on:earth_americas::  
