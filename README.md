@@ -11,7 +11,7 @@ Find me on:earth_americas::
 -[Twitter](https://twitter.com/pacojavomx)  
 -[Instagram](https://www.instagram.com/pacojavomx/)  
 
-![PacoJavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PacoJavoMx&theme=transparent&show_icons=true)
+
 <!--
 **PacoJavoMx/PacoJavoMx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
